@@ -3,3 +3,7 @@ new file added to test adding new files to repo
 after branch creation updating file
 
 checking change
+
+table 8
+table 9
+table 10
