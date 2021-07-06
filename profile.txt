@@ -3,3 +3,7 @@ Display name: sree
 Profile avatar
 
 posts
+
+comments
+
+views
