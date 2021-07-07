@@ -1,0 +1,3 @@
+user sign in at 9:30 am
+
+user auth true
